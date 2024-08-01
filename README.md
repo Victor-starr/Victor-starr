@@ -37,7 +37,6 @@
 - **LinkedIn:** [victor-starr](https://linkedin.com/in/victor-starr)
 - **GitHub:** [victor-starr](https://github.com/victor-starr)
 - **Email:** viktordm89@gmail.com
-- **Phone:** +359 899 180 619
 - **Location:** Plovdiv/Bulgaria
 
 ## 🌐 Languages
