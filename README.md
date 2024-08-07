@@ -65,7 +65,7 @@
 ## 🛠️ Projects
 
 - [Furniture (SPA)](https://github.com/Victor-starr/Furniture)
-- **Technologies Used:** N/A
+- [Luxury-Cars (SPA)](https://github.com/Victor-starr/Our-Luxury-Cars)
 
 
 ## 🌐 Socials
