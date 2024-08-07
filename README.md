@@ -7,31 +7,47 @@
 ## 💡 Skills
 - **Programming Languages:** JavaScript, HTML, CSS, Tailwind CSS
 - **Frameworks/Libraries:** Node.js, Mocha, Chai, Page.js, Lit-Html
+## 🎓 Education & Certifications
 
-## 🎓 Education/Certifications
-### 📂 JavaScript Basic | SoftUni
-- **Dates Attended:** Sep 2023 – Oct 2023
-- **Date Issued:** Oct 2023
-- **Location:** Online
-- **Details:** 100/100
+<details>
+  <summary>📂 JavaScript Basic | SoftUni</summary>
+  <ul>
+    <li><strong>Dates Attended:</strong> Sep 2023 – Oct 2023</li>
+    <li><strong>Date Issued:</strong> Oct 2023</li>
+    <li><strong>Location:</strong> Online</li>
+    <li><strong>Details:</strong> 100/100</li>
+  </ul>
+</details>
 
-### 📂 JavaScript Fundamentals | SoftUni
-- **Dates Attended:** Jan 2024 – Mar 2024
-- **Date Issued:** Mar 2024
-- **Location:** Online
-- **Details:** 100/100
+<details>
+  <summary>📂 JavaScript Fundamentals | SoftUni</summary>
+  <ul>
+    <li><strong>Dates Attended:</strong> Jan 2024 – Mar 2024</li>
+    <li><strong>Date Issued:</strong> Mar 2024</li>
+    <li><strong>Location:</strong> Online</li>
+    <li><strong>Details:</strong> 100/100</li>
+  </ul>
+</details>
 
-### 📂 JavaScript Advanced | SoftUni
-- **Dates Attended:** May 2024 – Jun 2024
-- **Date Issued:** Jun 2024
-- **Location:** Online
-- **Details:** 100/100
+<details>
+  <summary>📂 JavaScript Advanced | SoftUni</summary>
+  <ul>
+    <li><strong>Dates Attended:</strong> May 2024 – Jun 2024</li>
+    <li><strong>Date Issued:</strong> Jun 2024</li>
+    <li><strong>Location:</strong> Online</li>
+    <li><strong>Details:</strong> 100/100</li>
+  </ul>
+</details>
 
-### 📂 JavaScript Applications | SoftUni
-- **Dates Attended:** Jun 2024 – Aug 2024
-- **Date Issued:** Aug 2024
-- **Location:** Online
-- **Details:** 100/100
+<details>
+  <summary>📂 JavaScript Applications | SoftUni</summary>
+  <ul>
+    <li><strong>Dates Attended:</strong> Jun 2024 – Aug 2024</li>
+    <li><strong>Date Issued:</strong> Aug 2024</li>
+    <li><strong>Location:</strong> Online</li>
+    <li><strong>Details:</strong> 100/100</li>
+  </ul>
+</details>
 
 ## 📝 Personal Information
 - **Name:** Victor Dimitrov
