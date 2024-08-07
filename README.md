@@ -1,7 +1,8 @@
 # 💫 About Me
+![github-header-image](https://github.com/user-attachments/assets/4715bbc7-58fe-4359-8c70-168f4c4c96d1)
 
 ### ✨ Summary
-**I am a front-end web developer with two years of experience coding various game modes and websites. Recently, I started working on web applications and integrating front-end, back-end, and databases. Last summer, I developed front-end clones of popular websites like YouTube, TikTok, and Instagram. I am currently a student at SoftUni, focusing on JavaScript and expanding my knowledge. I have two more courses to complete before graduating.**
+**I am a front-end web developer with 6 months of experience coding various game modes and websites. Recently, I started working on web applications and integrating front-end, back-end, and databases. Last summer, I developed front-end clones of popular websites like YouTube, TikTok, and Instagram. I am currently a student at SoftUni, focusing on JavaScript and expanding my knowledge. I have two more courses to complete before graduating.**
 
 ## 💡 Skills
 - **Programming Languages:** JavaScript, HTML, CSS, Tailwind CSS
