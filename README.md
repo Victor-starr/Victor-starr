@@ -7,10 +7,11 @@
 ## 💡 Skills
 - **Programming Languages:** JavaScript, HTML, CSS, Tailwind CSS
 - **Frameworks/Libraries:** Node.js, Mocha, Chai, Page.js, Lit-Html
+
 ## 🎓 Education & Certifications
 
 <details>
-  <summary>📂 JavaScript Basic | SoftUni</summary>
+  <summary><a href='/Basics with JavaScript September 2023.pdf'>📂 JavaScript Basic | SoftUni</a></summary>
   <ul>
     <li><strong>Dates Attended:</strong> Sep 2023 – Oct 2023</li>
     <li><strong>Date Issued:</strong> Oct 2023</li>
@@ -20,7 +21,7 @@
 </details>
 
 <details>
-  <summary>📂 JavaScript Fundamentals | SoftUni</summary>
+  <summary><a href='/Fundamentals with JavaScript - January 2024.pdf'>📂 JavaScript Fundamentals | SoftUni</a></summary>
   <ul>
     <li><strong>Dates Attended:</strong> Jan 2024 – Mar 2024</li>
     <li><strong>Date Issued:</strong> Mar 2024</li>
@@ -30,7 +31,7 @@
 </details>
 
 <details>
-  <summary>📂 JavaScript Advanced | SoftUni</summary>
+  <summary><a href='/JS Advanced - May 2024.pdf'>📂 JavaScript Advanced | SoftUni</a></summary>
   <ul>
     <li><strong>Dates Attended:</strong> May 2024 – Jun 2024</li>
     <li><strong>Date Issued:</strong> Jun 2024</li>
@@ -40,7 +41,7 @@
 </details>
 
 <details>
-  <summary>📂 JavaScript Applications | SoftUni</summary>
+  <summary><a href='#'>📂 JavaScript Applications | SoftUni</a></summary>
   <ul>
     <li><strong>Dates Attended:</strong> Jun 2024 – Aug 2024</li>
     <li><strong>Date Issued:</strong> Aug 2024</li>
@@ -67,7 +68,6 @@
 - [Furniture (SPA)](https://github.com/Victor-starr/Furniture)
 - [Luxury-Cars (SPA)](https://github.com/Victor-starr/Our-Luxury-Cars)
 
-
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-starr/)
@@ -85,7 +85,7 @@
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-starr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<a href=#><img src="contributions.svg"></a>
+<a href='#'><img src='contributions.svg'></a>
 
 ---
 
