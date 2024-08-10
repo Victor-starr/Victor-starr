@@ -11,7 +11,7 @@
 ## 🎓 Education & Certifications
 
 <details>
-  <summary><a href='/Basics with JavaScript September 2023.pdf'>📂 JavaScript Basic | SoftUni</a></summary>
+  <summary><a href='./Basics with JavaScript - September 2023.pdf'>📂 JavaScript Basic | SoftUni</a></summary>
   <ul>
     <li><strong>Dates Attended:</strong> Sep 2023 – Oct 2023</li>
     <li><strong>Date Issued:</strong> Oct 2023</li>
@@ -21,7 +21,7 @@
 </details>
 
 <details>
-  <summary><a href='/Fundamentals with JavaScript - January 2024.pdf'>📂 JavaScript Fundamentals | SoftUni</a></summary>
+  <summary><a href='./Fundamentals with JavaScript - January 2024.pdf'>📂 JavaScript Fundamentals | SoftUni</a></summary>
   <ul>
     <li><strong>Dates Attended:</strong> Jan 2024 – Mar 2024</li>
     <li><strong>Date Issued:</strong> Mar 2024</li>
@@ -31,7 +31,7 @@
 </details>
 
 <details>
-  <summary><a href='/JS Advanced - May 2024.pdf'>📂 JavaScript Advanced | SoftUni</a></summary>
+  <summary><a href='./Advanced with JavaScript - May 2024.pdf'>📂 JavaScript Advanced | SoftUni</a></summary>
   <ul>
     <li><strong>Dates Attended:</strong> May 2024 – Jun 2024</li>
     <li><strong>Date Issued:</strong> Jun 2024</li>
