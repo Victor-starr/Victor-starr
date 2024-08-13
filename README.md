@@ -41,7 +41,7 @@
 </details>
 
 <details>
-  <summary><a href='#'>📂 JavaScript Applications | SoftUni</a></summary>
+  <summary><a href='./Applications with JavaScript - June 2024.pdf'>📂 JavaScript Applications | SoftUni</a></summary>
   <ul>
     <li><strong>Dates Attended:</strong> Jun 2024 – Aug 2024</li>
     <li><strong>Date Issued:</strong> Aug 2024</li>
