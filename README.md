@@ -1,54 +1,23 @@
-# 💫 About Me
-![github-header-image](https://github.com/user-attachments/assets/4715bbc7-58fe-4359-8c70-168f4c4c96d1)
+# Victor-starr
 
-### ✨ Summary
-**I am a front-end web developer with 6 months of experience coding various game modes and websites. Recently, I started working on web applications and integrating front-end, back-end, and databases. Last summer, I developed front-end clones of popular websites like YouTube, TikTok, and Instagram. I am currently a student at SoftUni, focusing on JavaScript and expanding my knowledge. I have two more courses to complete before graduating.**
+## 💫 About Me
+
+I am a JavaScript Full-Stack Developer, primarily working with the MERN stack. I am always exploring new ways to optimize my workflow and improve efficiency. Currently, I am a student at Software University, continuously expanding my expertise in modern web development.
 
 ## 💡 Skills
-- **Programming Languages:** JavaScript, HTML, CSS, Tailwind CSS, SASS
-- **Frameworks/Libraries:** Node.js, Mocha, Chai, Page.js, Lit-Html
+- **Programming Languages:** JavaScript,Typescript, HTML, CSS, SASS
+- **Frameworks/Libraries:** Node.js, Expres.js, React.js, 
 
 ## 🎓 Education & Certifications
 
-<details>
-  <summary><a href='./Basics with JavaScript - September 2023.pdf'>📂 JavaScript Basic | SoftUni</a></summary>
-  <ul>
-    <li><strong>Dates Attended:</strong> Sep 2023 – Oct 2023</li>
-    <li><strong>Date Issued:</strong> Oct 2023</li>
-    <li><strong>Location:</strong> Online</li>
-    <li><strong>Details:</strong> 100/100</li>
-  </ul>
-</details>
+<a href="https://softuni.bg/">
+  <img src="./softuni-icon.jpg" alt="SoftUni Logo" width="100" style="float: left; margin-right: 10px;" />
+</a>
 
-<details>
-  <summary><a href='./Fundamentals with JavaScript - January 2024.pdf'>📂 JavaScript Fundamentals | SoftUni</a></summary>
-  <ul>
-    <li><strong>Dates Attended:</strong> Jan 2024 – Mar 2024</li>
-    <li><strong>Date Issued:</strong> Mar 2024</li>
-    <li><strong>Location:</strong> Online</li>
-    <li><strong>Details:</strong> 100/100</li>
-  </ul>
-</details>
+- **Software University (SoftUni)**: Completed comprehensive training in software engineering, covering programming fundamentals, web development, and advanced JavaScript frameworks. [softuni.bg](https://softuni.bg/)
 
-<details>
-  <summary><a href='./Advanced with JavaScript - May 2024.pdf'>📂 JavaScript Advanced | SoftUni</a></summary>
-  <ul>
-    <li><strong>Dates Attended:</strong> May 2024 – Jun 2024</li>
-    <li><strong>Date Issued:</strong> Jun 2024</li>
-    <li><strong>Location:</strong> Online</li>
-    <li><strong>Details:</strong> 100/100</li>
-  </ul>
-</details>
 
-<details>
-  <summary><a href='./Applications with JavaScript - June 2024.pdf'>📂 JavaScript Applications | SoftUni</a></summary>
-  <ul>
-    <li><strong>Dates Attended:</strong> Jun 2024 – Aug 2024</li>
-    <li><strong>Date Issued:</strong> Aug 2024</li>
-    <li><strong>Location:</strong> Online</li>
-    <li><strong>Details:</strong> 100/100</li>
-  </ul>
-</details>
+
 
 ## 📝 Personal Information
 - **Name:** Victor Dimitrov
@@ -65,13 +34,19 @@
 
 ## 🛠️ Projects
 
-- [Furniture (SPA)](https://github.com/Victor-starr/Furniture)
-- [Luxury-Cars (SPA)](https://github.com/Victor-starr/Our-Luxury-Cars)
+- N/A
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-starr/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victor-starr)
+## 🌐 Languages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ## 📊 GitHub Stats
 
@@ -80,4 +55,4 @@
 
 ---
 
-**© 2024 Victor Dimitrov**
+**© 2025 Victor Dimitrov**
