@@ -6,7 +6,7 @@ I am a JavaScript Full-Stack Developer, primarily working with the MERN stack. I
 
 ## 💡 Skills
 - **Programming Languages:** JavaScript,Typescript, HTML, CSS, SASS
-- **Frameworks/Libraries:** Node.js, Expres.js, React.js, 
+- **Frameworks/Libraries:** Node.js, Expres.js, React.js,Next.js
 
 ## 🎓 Education & Certifications
 
