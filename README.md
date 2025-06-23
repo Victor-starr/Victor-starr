@@ -4,20 +4,24 @@
 
 I am a JavaScript Full-Stack Developer, primarily working with the MERN stack. I am always exploring new ways to optimize my workflow and improve efficiency. Currently, I am a student at Software University, continuously expanding my expertise in modern web development.
 
-## 💡 Skills
-- **Programming Languages:** JavaScript,Typescript, HTML, CSS, SASS
-- **Frameworks/Libraries:** Node.js, Expres.js, React.js,Next.js
-
 ## 🎓 Education & Certifications
-
-<a href="https://softuni.bg/">
-  <img src="./softuni-icon.jpg" alt="SoftUni Logo" width="100" style="float: left; margin-right: 10px;" />
-</a>
-
 - **Software University (SoftUni)**: Completed comprehensive training in software engineering, covering programming fundamentals, web development, and advanced JavaScript frameworks. [softuni.bg](https://softuni.bg/)
 
+## 💡 Skills
 
+### 🧠 Hard Skills
 
+* **Frontend:** React.js, Next.js, HTML, CSS, Tailwind CSS, SASS, JavaScript, TypeScript
+* **Backend:** Node.js, Express.js, MongoDB
+* **Version Control:** Git, GitHub
+* **Other:** RESTful APIs, Responsive Design, Debugging, Problem Solving
+
+### 🤝 Soft Skills
+
+* **Team Collaboration** – Comfortable working in team environments and using tools like Git and code reviews.
+* **Communication** – Fluent in Bulgarian, Russian, and English; beginner in Spanish.
+* **Adaptability** – Quick to learn new technologies and frameworks.
+* **Time Management** – Able to prioritize and meet deadlines in agile environments.
 
 ## 📝 Personal Information
 - **Name:** Victor Dimitrov
@@ -26,15 +30,17 @@ I am a JavaScript Full-Stack Developer, primarily working with the MERN stack. I
 - **Email:** viktordm89@gmail.com
 - **Location:** Plovdiv/Bulgaria
 
-## 🌐 Languages
-- **Bulgarian:** Native
-- **Russian:** Fluent
-- **English:** Fluent
-- **Spanish:** Beginner
 
 ## 🛠️ Projects
 
-- N/A
+- [**Table-Starr**](https://github.com/Victor-starr/Table-Starr)  
+  A modern data table solution designed for flexibility and performance. Ideal for handling large datasets with advanced sorting, filtering, and pagination features.
+
+- [**Tasty-list**](https://github.com/Victor-starr/Tasty-list)  
+  A sleek recipe and meal planning app. Easily create, manage, and share your favorite recipes with intuitive meal scheduling and shopping list integration.
+
+- [**deezer-starr**](https://github.com/Victor-starr/deezer-starr)  
+  A Deezer music API integration tool that enables playlist management, track discovery, and personalized recommendations, all with a user-friendly interface.
 
 ## 🌐 Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,7 +53,6 @@ I am a JavaScript Full-Stack Developer, primarily working with the MERN stack. I
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ## 📊 GitHub Stats
 
