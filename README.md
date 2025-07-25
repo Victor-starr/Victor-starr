@@ -12,7 +12,7 @@ I’m Victor, a full-stack developer who recently completed the Software Enginee
 ### 🧠 Hard Skills
 
 * **Frontend:** React.js, Next.js, HTML, CSS, Tailwind CSS, SASS, JavaScript, TypeScript
-* **Backend:** Node.js, Express.js, MongoDB
+* **Backend:** Node.js, Express.js, MongoDB, Supabase
 * **Version Control:** Git, GitHub
 * **Other:** RESTful APIs, Responsive Design, Debugging, Problem Solving
 
@@ -50,9 +50,13 @@ I’m Victor, a full-stack developer who recently completed the Software Enginee
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NextJs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Supabse](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ## 📊 GitHub Stats
 
