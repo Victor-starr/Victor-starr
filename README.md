@@ -12,7 +12,8 @@ I’m Victor, a full-stack developer who recently completed the Software Enginee
 ### 🧠 Hard Skills
 
 * **Frontend:** React.js, Next.js, HTML, CSS, Tailwind CSS, SASS, JavaScript, TypeScript
-* **Backend:** Node.js, Express.js, MongoDB, Supabase
+* **Backend:** Node.js, Express.js
+* **DataBases:** MongoDB, Supabase
 * **Version Control:** Git, GitHub
 * **Other:** RESTful APIs, Responsive Design, Debugging, Problem Solving
 
@@ -33,14 +34,18 @@ I’m Victor, a full-stack developer who recently completed the Software Enginee
 
 ## 🛠️ Projects
 
+-[**Photo-Starr**](https://github.com/Victor-starr/photo-booth)
+ Photo Booth is a fun website for taking, customizing, and sharing photos in themed sessions. Great for parties, events, or just for fun with friends
+
 - [**Table-Starr**](https://github.com/Victor-starr/Table-Starr)  
   A modern data table solution designed for flexibility and performance. Ideal for handling large datasets with advanced sorting, filtering, and pagination features.
+
+- [**deezer-starr**](https://github.com/Victor-starr/deezer-starr)  
+  A Deezer music API integration tool that enables playlist management, track discovery, and personalized recommendations, all with a user-friendly interface.
 
 - [**Tasty-list**](https://github.com/Victor-starr/Tasty-list)  
   A sleek recipe and meal planning app. Easily create, manage, and share your favorite recipes with intuitive meal scheduling and shopping list integration.
 
-- [**deezer-starr**](https://github.com/Victor-starr/deezer-starr)  
-  A Deezer music API integration tool that enables playlist management, track discovery, and personalized recommendations, all with a user-friendly interface.
 
 ## 🌐 Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
