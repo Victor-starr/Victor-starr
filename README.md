@@ -33,21 +33,20 @@ I’m Victor, a full-stack developer who recently completed the Software Enginee
 
 
 ## 🛠️ Projects
+ - [**Outfit-X**](https://github.com/Victor-starr/OutfitX)
+  Outfit-X is a wardrobe management that stores and organizes your clothing at the same time it helps you create outfits that you can save for later, so you never run out of ideas on what to wear.
 
--[**Photo-Starr**](https://github.com/Victor-starr/photo-booth)
- Photo Booth is a fun website for taking, customizing, and sharing photos in themed sessions. Great for parties, events, or just for fun with friends
-
-- [**Table-Starr**](https://github.com/Victor-starr/Table-Starr)  
-  A modern data table solution designed for flexibility and performance. Ideal for handling large datasets with advanced sorting, filtering, and pagination features.
-
-- [**deezer-starr**](https://github.com/Victor-starr/deezer-starr)  
+ - [**Photo-Starr**](https://github.com/Victor-starr/photo-booth)
+  Photo Booth is a fun website for taking, customizing, and sharing photos in themed sessions. Great for parties, events, or just for fun with friends
+ 
+ - [**deezer-starr**](https://github.com/Victor-starr/deezer-starr)  
   A Deezer music API integration tool that enables playlist management, track discovery, and personalized recommendations, all with a user-friendly interface.
-
-- [**Tasty-list**](https://github.com/Victor-starr/Tasty-list)  
+ 
+ - [**Tasty-list**](https://github.com/Victor-starr/Tasty-list)  
   A sleek recipe and meal planning app. Easily create, manage, and share your favorite recipes with intuitive meal scheduling and shopping list integration.
 
 
-## 🌐 Languages
+## 🌐 TECK STACK
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -62,6 +61,7 @@ I’m Victor, a full-stack developer who recently completed the Software Enginee
 ![Supabse](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 ## 📊 GitHub Stats
 
