@@ -2,7 +2,7 @@
 
 ## 💫 About Me
 
-I’m Victor, a full-stack developer who recently completed the Software Engineering roadmap at Software University (SoftUni). My programming journey began in high school and quickly evolved into a true passion. I primarily work with JavaScript — a language that many find challenging, but one I value for its versatility and power. As the second of three siblings, I’ve always been driven to forge my own path. With my training at SoftUni now complete, I’m excited to take the next step and pursue a Bachelor's degree in Computer Science in a different country in Europe.
+I’m Victor, a full-stack developer who recently completed the Software Engineering roadmap at Software University (SoftUni). My programming journey began in high school and quickly evolved into a true passion. I primarily work with JavaScript — a language that many find challenging, but one I value for its versatility and power. As the second of three siblings, I’ve always been driven to forge my own path. With my training at SoftUni now complete, I’m excited to take the next step and pursue a Bachelor's degree in Computer Science.
 
 ## 🎓 Education & Certifications
 - **Software University (SoftUni)**: Completed comprehensive training in software engineering, covering programming fundamentals, web development, and advanced JavaScript frameworks. [softuni.bg](https://softuni.bg/)
