@@ -62,6 +62,7 @@ I’m Victor, a full-stack developer who recently completed the Software Enginee
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Better-auth](https://img.shields.io/badge/Better-%20Auth-FF9900?style=for-the-badge&logo=betterauth&logoColor=white)
 
 ## 📊 GitHub Stats
 
